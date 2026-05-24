@@ -1,0 +1,1 @@
+{"group_id":"reduce_sum_f32_roundtrip","function_id":"metal_alloc","value_str":"65536/4096","throughput":{"Elements":65536},"full_id":"reduce_sum_f32_roundtrip/metal_alloc/65536/4096","directory_name":"reduce_sum_f32_roundtrip/metal_alloc/65536_4096","title":"reduce_sum_f32_roundtrip/metal_alloc/65536/4096"}

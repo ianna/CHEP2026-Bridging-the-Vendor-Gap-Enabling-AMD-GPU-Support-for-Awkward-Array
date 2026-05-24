@@ -1,0 +1,1 @@
+{"group_id":"reduce_sum_f32","function_id":"metal","value_str":"1024/128","throughput":{"Elements":1024},"full_id":"reduce_sum_f32/metal/1024/128","directory_name":"reduce_sum_f32/metal/1024_128","title":"reduce_sum_f32/metal/1024/128"}

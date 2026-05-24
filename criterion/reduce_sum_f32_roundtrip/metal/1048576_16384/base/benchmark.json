@@ -1,0 +1,1 @@
+{"group_id":"reduce_sum_f32_roundtrip","function_id":"metal","value_str":"1048576/16384","throughput":{"Elements":1048576},"full_id":"reduce_sum_f32_roundtrip/metal/1048576/16384","directory_name":"reduce_sum_f32_roundtrip/metal/1048576_16384","title":"reduce_sum_f32_roundtrip/metal/1048576/16384"}
