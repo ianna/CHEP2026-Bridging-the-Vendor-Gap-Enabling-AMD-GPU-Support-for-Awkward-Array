@@ -1,3 +1,9 @@
+<img width="1472" height="1448" alt="image" src="https://github.com/user-attachments/assets/448166d6-0b8e-40c2-b7f5-281f72385517" />
+
+A few things worth noting visually now that all three backends are on the same axes:
+The CPU lines (blue for Mac, green for della-milan) share a characteristic V-shape from lower-left to upper-right — both accelerate as data outgrows cache. The GPU lines run roughly horizontal because they're bottlenecked by fixed launch overhead rather than data volume. That's what produces the crossover: the CPU slope is steep, the GPU slope is shallow, and they intersect somewhere between 64 K and 1 M elements.
+The i64 gpu_rnd dot at 1 M / 16 K (885 µs, off the top of the f32 chart's intuitive range) tells the PCIe story clearly — 8 MB of doubles crossing the bus dominates everything else at that size.
+
 <img width="1472" height="1740" alt="image" src="https://github.com/user-attachments/assets/0afa8cb2-3ffd-4fa1-9d1e-8ee452e4fb72" />
 
 Three patterns stand out clearly.
