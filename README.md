@@ -1,7 +1,5 @@
 # Bridging the Vendor Gap: Enabling AMD GPU Support for Awkward Array via ROCm/HIP for the HL-LHC Era 
 
-[![Criterion Benchmarks](https://img.shields.io/badge/Benchmarks-Criterion-blue.svg)](https://raw.githack.com/ianna/CHEP2026-Bridging-the-Vendor-Gap-Enabling-AMD-GPU-Support-for-Awkward-Array/main/criterion/report/index.html)
-
 The computational demands of the High-Luminosity LHC (HL-LHC) necessitate a transition toward heterogeneous computing environments. While the Scikit-HEP ecosystem has historically leveraged NVIDIA GPUs through CUDA, the increasing deployment of AMD-based supercomputers requires a vendor-neutral approach to performance portability.
 
 This contribution details the design and implementation of the initial ROCm/HIP backend for Awkward Array, the foundation for Pythonic HEP analysis. By implementing the library’s kernel infrastructure in HIP, we enable the execution of complex, nested, and irregular array operations on AMD hardware without sacrificing the library's high-level user interface.
