@@ -1,0 +1,1 @@
+{"group_id":"reduce_argmax_hip_i64","function_id":"cpu","value_str":"65536/4096","throughput":{"Elements":65536},"full_id":"reduce_argmax_hip_i64/cpu/65536/4096","directory_name":"reduce_argmax_hip_i64/cpu/65536_4096","title":"reduce_argmax_hip_i64/cpu/65536/4096"}
