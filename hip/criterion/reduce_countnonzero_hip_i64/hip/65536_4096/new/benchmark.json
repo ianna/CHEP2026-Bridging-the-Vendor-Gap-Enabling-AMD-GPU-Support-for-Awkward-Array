@@ -1,0 +1,1 @@
+{"group_id":"reduce_countnonzero_hip_i64","function_id":"hip","value_str":"65536/4096","throughput":{"Elements":65536},"full_id":"reduce_countnonzero_hip_i64/hip/65536/4096","directory_name":"reduce_countnonzero_hip_i64/hip/65536_4096","title":"reduce_countnonzero_hip_i64/hip/65536/4096"}

@@ -1,0 +1,1 @@
+{"group_id":"reduce_min_hip_i64","function_id":"hip","value_str":"1048576/16384","throughput":{"Elements":1048576},"full_id":"reduce_min_hip_i64/hip/1048576/16384","directory_name":"reduce_min_hip_i64/hip/1048576_16384","title":"reduce_min_hip_i64/hip/1048576/16384"}
