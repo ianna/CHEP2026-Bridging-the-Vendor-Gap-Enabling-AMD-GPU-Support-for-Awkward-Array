@@ -12,3 +12,6 @@ Click below to view the interactive Criterion profile reports for each GPU execu
 
 [![Metal Benchmarks](https://img.shields.io/badge/Benchmarks-Apple_Metal-black.svg?logo=apple)](https://raw.githack.com/ianna/CHEP2026-Bridging-the-Vendor-Gap-Enabling-AMD-GPU-Support-for-Awkward-Array/main/metal/criterion/report/index.html)
 [![AMD GPU Benchmarks](https://img.shields.io/badge/Benchmarks-AMD_ROCm-orange.svg?logo=amd)](https://raw.githack.com/ianna/CHEP2026-Bridging-the-Vendor-Gap-Enabling-AMD-GPU-Support-for-Awkward-Array/main/hip/criterion/report/index.html)
+
+### GitHub
+[<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/595bfd0a-8c38-403d-a480-4f6173602cec" />](https://github.com/ianna/rawkward)
